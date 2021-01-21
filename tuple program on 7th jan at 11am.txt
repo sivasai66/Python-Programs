@@ -1,0 +1,23 @@
+t=(1,2,3)
+t1=()
+len(t)
+type(t)
+str(t)
+
+
+
+t=(1,2,3)
+t1=(10,20,30,10)
+t1.count(value)
+t1.index(value)
+t1*3
+t1+t1
+t2=t1+t1
+list(t1)
+set(t1)
+sorted(t1)
+t1[::-1] - reverse of a tuple
+t3[2]="klu" - we can't modify the valuue as tuple is read-only data structure
+sum(t3)
+min(t3)
+max(t3)
