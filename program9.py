@@ -1,7 +1,7 @@
 #python script to display the largest number among three numbers
-a=int(input("Enter the first value"))
-b=int(input("Enter the second value"))
-c=int(input("Enter the third value"))
+a=10
+b=2
+c=13
 if(a>b):
     if(a>c):
         print("A is the big number",a)
